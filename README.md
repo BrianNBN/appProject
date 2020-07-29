@@ -1,2 +1,2 @@
 # appProject
-Project by Lux Tech Academy #100DaysOfCodeWithLux
+Lux Tech Academy JavaScript Boot Camp Learners Project 1.0.0
